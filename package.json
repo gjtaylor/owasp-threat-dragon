@@ -76,7 +76,7 @@
     "debug": "3.1.0",
     "istanbul": "0.4.5",
     "jasmine": "2.8.0",
-    "jasmine-core": "2.8.0",
+    "jasmine-core": "3.3.0",
     "jasmine-jquery": "2.1.1",
     "jasmine-node": "1.14.5",
     "jasmine-spec-reporter": "4.2.1",
